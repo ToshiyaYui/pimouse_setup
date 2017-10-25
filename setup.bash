@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#wirrten by t. yui
 
 exec 2> /tmp/setup.log
 
